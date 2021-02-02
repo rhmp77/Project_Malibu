@@ -144,7 +144,7 @@ int32_t gSensPosVal = CAN_MESSAGE_PARK_SENS_POS;
 #define CAN_MESSAGE_PARK_SENS_POS 0x400
 int32_t gSensPosVal = CAN_MESSAGE_PARK_SENS_POS;
 #endif
-
+//comment
 #ifdef SENS_POS_CFLT
 #define CAN_MESSAGE_PARK_SENS_POS 0x500
 int32_t gSensPosVal = CAN_MESSAGE_PARK_SENS_POS;
